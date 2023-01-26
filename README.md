@@ -1,2 +1,2 @@
-# eeob563
+# eeob563 - class Readme
 spring semester 2023
